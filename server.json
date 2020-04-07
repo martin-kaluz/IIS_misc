@@ -1,0 +1,96 @@
+{
+  "books": [
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "rating": 4.33,
+      "description": "Could you survive on your own, in the wild, with everyone out to make sure you don't live to see the morning? In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. But Katniss has been close to dead before - and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "rating": 4.27,
+      "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "rating": 4.26,
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work 'her own darling child' and its vivacious heroine, Elizabeth Bennet, 'as delightful a creature as ever appeared in print.' The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885.jpg"
+    },
+    {
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "rating": 3.59,
+      "description": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood. And third, I was unconditionally and irrevocably in love with him. Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865.jpg"
+    },
+    {
+      "title": "Boxed Set: The Hobbit and The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "rating": 4.59,
+      "description": "This four-volume, boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30.jpg"
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "rating": 4.3,
+      "description": "Scarlett O'Hara, the beautiful, spoiled daughter of a well-to-do Georgia plantation owner, must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea.",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577l/18405._SY475_.jpg"
+    }
+  ],
+  "games": [
+    {
+      "title": "Half-Life 2",
+      "developer": "Valve Sofware",
+      "year": 2004,
+      "metascore": 96,
+      "cover": "https://static.metacritic.com/images/products/games/8/3154ea81c0d3578b829a6640ac5ecfe7-98.jpg",
+      "review": " By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around him, from the physical environment to the behaviors -- even the emotions -- of both friends and enemies. The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people -- people he cares about -- are counting on him."
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "developer": "Rockstar North",
+      "year": 2015,
+      "metascore": 96,
+      "cover": "https://static.metacritic.com/images/products/games/2/bab786f634eee57a1c68be2dddf3d1e5-98.jpg",
+      "review": "Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets and fading celebrities, once the envy of the Western world, now struggling to stay alive in a time of economic uncertainty and cheap reality TV. Amidst the turmoil, three very unique criminals plot their own chances of survival and success: Franklin, a street hustler looking for tangible opportunities and serious money; Michael, a professional ex-con whose retirement is less rosy than he figured it would be; and Trevor, a violent dude driven by the opportunity for a cheap high and his next big score. With options at a premium, the crew risks it all in a myriad of daring and dangerous heists that could set them up for life."
+    },
+    {
+      "title": "World of Warcraft",
+      "developer": "Blizzard Entertainment",
+      "year": 2004,
+      "metascore": 93,
+      "cover": "https://static.metacritic.com/images/products/games/3/c3383580eb989c3596326f861f063786-98.jpg",
+      "review": "Four years have passed since the aftermath of Warcraft III: Reign of Chaos, and a great tension now smolders throughout the ravaged world of Azeroth. As the battle-worn races begin to rebuild their shattered kingdoms, new threats, both ancient and ominous, arise to plague the world once again. World of Warcraft is an online role-playing experience set in the award-winning Warcraft universe. Players assume the roles of Warcraft heroes as they explore, adventure, and quest across a vast world. Being Massively Multiplayer, World of Warcraft allows thousands of players to interact within the same world. Whether adventuring together or fighting against each other in epic battles, players will form friendships, forge alliances, and compete with enemies for power and glory. A dedicated live team will create a constant stream of new adventures to undertake, lands to explore, and monsters to vanquish. This content ensures that the game will never be the same from month to month, and will continue to offer new challenges and adventures for years to come."
+    },
+    {
+      "title": "Quake",
+      "developer": "id Software",
+      "year": 1996,
+      "metascore": 94,
+      "cover": "https://static.metacritic.com/images/products/games/3/763f67e493be336fb80809612b3c8086-98.jpg",
+      "review": "Rage through 32 single player levels and 6 deathmatch levels of sheer terror and fully immersive sound and lighting. Arm yourself against the cannibalistic Ogre, fiendish Vore and indestructible Schambler using letal nails, fierce Thunderbolts and abominable Rocket and Grenade Launchers."
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "developer": "Bethesda Game Studios",
+      "year": 2011,
+      "metascore": 94,
+      "cover": "https://static.metacritic.com/images/products/games/3/763f67e493be336fb80809612b3c8086-98.jpg",
+      "review": "The next chapter in the Elder Scrolls saga arrives from the Bethesda Game Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before. Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons. Choose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions. Battle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power for yourself."
+    },
+    {
+      "title": "Fallout",
+      "developer": "Black Isle Studios",
+      "year": 1997,
+      "metascore": 89,
+      "cover": "https://static.metacritic.com/images/products/games/3/ce84a8789501e0ab0c259ac072446267-98.jpg",
+      "review": "Set in the aftermath of a world-wide nuclear war, Fallout will challenge you to survive in an unknown and dangerous world. You will take the role of a Vault-dweller, a person who has grown up in a secluded, underground survival Vault. Circumstances arise that force you to go Outside -- to a strange world 80 years after the end of the modern civilization. A world of mutants, radiation, gangs and violence. Your immediate task is to find a replacement for the broken water purification controller chip. Without that chip, your fellow Vault dwellers are doomed to dehydration or be forced to leave the safety of the Vault for the Outside."
+    }
+  ]
+}
